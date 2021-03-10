@@ -1,0 +1,25 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Using node and express JS # 11 Express.js: Note Taker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatihay53/Note-Takers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fatihay53/Note-Takers/issues"
+  },
+  "homepage": "https://github.com/fatihay53/Note-Takers#readme"
+}
+
